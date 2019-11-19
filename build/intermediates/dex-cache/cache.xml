@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="42c9659c973e311ffdb645ed057e5053e0ab5c78">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-11.8.0_a16c66a6a12d38a219a36b38107c82b85c61a74c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-core/4.31.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="49d6e981cef2eb91ff98aa6004fadb3bd757790d">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-core-4.31.0_2c7a668bb3451ccc4bf362300439ce7e8f247165.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_0483ee253abcc4d767365fbcdaa02af7f54a1754.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="122de0d704f76d2bb5cb9db66e00fe90a0a41e78">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-11.8.0_f05bcedaf53716d602955e5a3d9a9ce60498ec7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/me.leolin/ShortcutBadger/1.1.17/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="248218f163235e6d2a81188eaa1db0ec61193055">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/me.leolin-ShortcutBadger-1.1.17_56ba77506ea677b73b13d51e1b22f0fc795f2335.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_af824b5d4e9999962e1237eff9cbef0f7e4b8b97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c44026185adf61f12630db36ac6781481f559e7c">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-11.8.0_42a60100614fa4c475dc349d3e13095524bb6eb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-27.0.2_d6a7765ae2b01563700e39cb2b1eb5334ca67b1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_da48778f7f3ec12a0ad6263250a0f1c516f81eaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_b1e27fdfda184ff910ac98c414aef065b96a3ebf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-common/4.32.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2d127661c786c056316cda1fe4d4cfb942b2d00c">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/release/com.facebook.android-facebook-common-4.32.0_85e012e2edde72dd85ebe68fc2fef6129a31d837.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/mynewtemp/react-native-image-picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="13c3c298ba7c930ce38c8c6aae2e8102b53ef8c2">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/mynewtemp-react-native-image-picker-unspecified_97dfbeb174e08c20937d21548a6262aaff008f10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-27.0.2_466bba30e95a7c3f5d5901e3c4f50743321f3d30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="112e6935caed6ca1c65d627777c76f0296f62867">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.54.2_dc322b3416e0aedb6aae6b7d7ed433e5dc150367.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_b7f1b092d2d26ae589b0501a7af4eccb57b3906e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-common/4.31.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e3b8ecc558c6deeb90eb3934c1c715128ab26dcd">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-common-4.31.0_b14f57b672796c8085e402c3fbbb80e32ea1af0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/mynewtemp/react-native-fcm/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0236123b16bab06d37944e5a91c324e76d50d431">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/mynewtemp-react-native-fcm-unspecified_f56d58ef0f9cb0cc926533cabddc6e66ba3ec702.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_e565b41dfd3016792eb9fa3307a037c06a75b177.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/mynewtemp/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="001d8a96417bf5d83cb2759a3bb0d635101dda4c">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/mynewtemp-react-native-vector-icons-unspecified_8ee57854efceb42b657eaaf996d238f229b1f2fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-27.0.2_f152830a41898bedd4433b55937304be00f53cd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_589d1f29880646b15c810e30cabb0396452c02c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-messenger/4.32.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6d3dda07fbd30171edc150e4f13884fce5cd9926">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/release/com.facebook.android-facebook-messenger-4.32.0_9ce6425c37fb3cc383f6552478357fd9d8866c27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_6e9c0c8ca3984e93aa8568e71afc730f40d12c55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.3.0/73c49077166faa4c3c0059c5f583d1d7bd1475fe/core-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/core-3.3.0_0f475b46b2b28807df43b5a9fcab50a8bb825cda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6746a3078625563a9eb381920f34e47ccd6bab87">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-11.8.0_1d3348a1eacf18e5e94d2e5b7b93544c59043c01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.android.support/customtabs/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cdebcd9e0580b35115f655f8dc8ed7a66a8ef0fc">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-27.0.2_734e222db0599cad2a936875b7d08b1ee2a028cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-share/4.31.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="95d97996ec624fca99f6b06ad6004c749259970d">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-share-4.31.0_9f6c8812761880009d3aed1e728e705b50c52525.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0a23c4daa97697118d96f2b09d1dbaf9ea943d8d">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-11.8.0_b09fdfe5e2966f2a3814b3ddf8ad935491a499f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bcd0bcdef85b31a656af76e39c0c95ce70800772">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-27.0.2_fc3c94269fb4307afe7b37bc4b58503cd2c49e23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_c06eb64f958d1c14cceffb3a2cfb03e91bce185a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_22a2e5b28dbbed0f6d5a64b262a2a10297daf348.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.32.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="39c51fbcdfbe3a81c923cfd1159b27bf28738933">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/release/com.facebook.android-facebook-login-4.32.0_7b823b255de71a2104d5890b0d725a834b19da17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-api-phone/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fe94ced585bffcf3c7f788a294cc54e6785544ac">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-api-phone-11.8.0_6b9e0fd2d24a3a8a3d492f8db0506c09f29f07bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/android.arch.lifecycle-runtime-1.0.3_2f5f506d4e2c72c9d6603f5375db1f63f5d49bd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.32.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b1c250352bb7bbd5ea1982ca5165f2a81f36b530">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/release/com.facebook.android-facebook-android-sdk-4.32.0_44b3451866aea7e5c404cea161e47d7fc3c0d2c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-11.8.0_17fd46e8693047bfc035736e720ddeebc28e9a8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_ce759c18633d5b6118dc0ffe3a6a802986a63c91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="14bfdbf5594d4d7c320de20831849050788ab1e3">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-27.0.2_2ac7930b4ea17c2ec06b072cf088958fac200e80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.2/b9ef4342c934a1a8b107506273dc8061662a322/support-annotations-27.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/support-annotations-27.0.2_051a7ad7f6ab19f141e6376c2932accb28f2211f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-places/4.31.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="821200fa3e07f93d0ae66e4a5917db8bac69dfe1">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-places-4.31.0_3d375d399b250799cbd031336c7b10cdd14943cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="264ad23f9752aabecfa41115c52a25a023a08839">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-11.8.0_9aac8f5b1b232f2761b093f76a6a58a459be78db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-applinks/4.31.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="82ea5a937ab84229fbd2f3fc8cf2a72cbdf0ee0f">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-applinks-4.31.0_db9fd77d7b3d47f808764b8133e29dc0a73402b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.31.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b8b26b28aae0ba8e2db55ad9fe0ebc770530c5ef">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-login-4.31.0_ea6e2cb70b50291545d7769ede28e0178185ee67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_0a1fee9e91b8a03c4342be67222fb42687156942.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-messenger/4.31.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2482bfd874e8b3927f4141105674ad392ff83698">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-messenger-4.31.0_dde2ed8b7cbf7a86d606f5d62b1a8bc36c844fec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="25c8cb628374f9a2d59ff9e1172753751e9a9f84">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-27.0.2_ff1d9ae7ba83188f60d5ac5ef8237071515c2069.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-11.8.0_d97d03abbb8e8fe77bce82fc9754dbc8b06f7fa7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/mynewtemp/react-native-i18n/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="89075ff9a907af843ffb29e0c882230eb331739d">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/mynewtemp-react-native-i18n-unspecified_378e969d37209212433a52560903197f3e1c481f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/mynewtemp/react-native-google-signin/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b800c6d6fdcbf73112586f887618c681844aaa77">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/mynewtemp-react-native-google-signin-unspecified_502a8387d19db03d5029fd1ecb9a67cc226b78bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-share/4.32.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="95d97996ec624fca99f6b06ad6004c749259970d">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/release/com.facebook.android-facebook-share-4.32.0_ea2c558218346cfe5011e6548cbb40f77a8e77a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-27.0.2_13ea0e5a9e9596352b3560f8bcfc943bee0578bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233d88c6f961d2a84758dfe27b7af61318190c7b">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-11.8.0_c2bba938375ebe2860305633b6ab861426f304f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-27.0.2_f5a12eddcc6d4ed88ba1ab9304eae3c2cfe89e59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-27.0.2_2e476f7a687d4b090ea969543ce84b45bc3ba8ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.3/7d7f60c4783872861222166f6164215f8951c7b1/common-1.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/common-1.0.3_28472faa0bddacd7fffdae00a5c9f50850732ddb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-places/4.32.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="10d66e720416b2d4e5e16b4d3f5c98989b4e1c15">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/release/com.facebook.android-facebook-places-4.32.0_e0c2a64cb67f1a73732058f4da2595a456e40af9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-core/4.32.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="58a3043ff0f8d98128c9b2d82d7d579c39a6cdec">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/release/com.facebook.android-facebook-core-4.32.0_2ad3b0a4a42c1a97806fc428a79fc23f72fe9293.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_344ae150b13e219606fc2123cf5ffa6def8ac514.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.31.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b1c250352bb7bbd5ea1982ca5165f2a81f36b530">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.31.0_401c8a41b7d70b57969dfa05490c2bf64d67811e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.2/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_ebcf361247c9c8891ea158aeafecd778f89e9ea9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-applinks/4.32.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="82ea5a937ab84229fbd2f3fc8cf2a72cbdf0ee0f">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/release/com.facebook.android-facebook-applinks-4.32.0_cb412d2097360fef901d2ad6984622b911915825.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e6aeff19a2ce1eb896557be73cb9ceb56f8d1cf3">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-11.8.0_98bf4b7f6d7ebd09f50c149822dacfa7f2ce3e4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/mynewtemp/react-native-share/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3a498bff87e1915a509c05e251655df4d369ee30">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/mynewtemp-react-native-share-unspecified_8e6a363d5ab66aaaa7cdb593edbe04971686be8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-27.0.2_ac19559dd961a9a6bec3779d361febc81c123837.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_d5b68090a44c6f7664f23037b9a839933de19199.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_272ab39a79ac27d067612848db0a7e44945749c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_3c4d83634b95c5383a9d2d0f102ce24e375afd1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/mynewtemp/react-native-fbsdk/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ddf367e608fdc05456b36a18308926f1864d90de">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/mynewtemp-react-native-fbsdk-unspecified_db5e507985eb466596ea885ea9cfcb9d0e8b2ea8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/vijaya/restaurant/restauantapi/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_9dcf3ab7d624283d48524324a3d7f3fdcd8aa9ca.jar" />
+    </item>
+
+</items>
