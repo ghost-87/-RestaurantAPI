@@ -1,0 +1,57 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "test": "node node_modules/jest/bin/jest.js --watch"
+  },
+  "rnpm": {
+    "assets": [
+      "./path to your fonts"
+    ]
+  },
+  "dependencies": {
+    "@types/socket.io-client": "^1.4.32",
+    "axios": "0.17.1",
+    "babel-polyfill": "^6.9.1",
+    "link": "^0.1.5",
+    "lodash": "3.10.1",
+    "moment": "^2.20.1",
+    "moment-timezone": "^0.5.14",
+    "native-base": "^2.3.3",
+    "oauth-1.0a": "^2.2.3",
+    "react": "^16.0.0",
+    "react-native": "^0.54.0",
+    "react-native-auto-scroll": "0.0.1",
+    "react-native-datepicker": "1.6.0",
+    "react-native-easy-grid": "0.1.15",
+    "react-native-fbsdk": "^0.7.0",
+    "react-native-fcm": "^14.1.3",
+    "react-native-google-signin": "^0.12.0",
+    "react-native-i18n": "^2.0.12",
+    "react-native-image-picker": "^0.26.7",
+    "react-native-keyboard-aware-scroll-view": "^0.4.1",
+    "react-native-share": "^1.0.26",
+    "react-native-simple-time-picker": "0.2.0",
+    "react-native-star-rating": "^1.0.8",
+    "react-native-swiper": "^1.5.13",
+    "react-native-vector-icons": "^4.5.0",
+    "react-navigation": "^1.0.0-beta.20",
+    "react-redux": "^4.4.8",
+    "redux": "^3.7.2",
+    "redux-form": "^7.3.0",
+    "redux-persist": "^5.4.0",
+    "redux-thunk": "^2.2.0",
+    "socket.io-client": "^2.0.4"
+  },
+  "name": "my-new-temp",
+  "version": "0.0.0",
+  "description": "Hello!",
+  "author": " ",
+  "devDependencies": {
+    "babel-preset-react-native-stage-0": "^1.0.1",
+    "eslint-config-rallycoding": "^3.2.0",
+    "react-test-renderer": "16.0.0"
+  }
+}

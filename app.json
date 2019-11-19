@@ -1,0 +1,28 @@
+{
+  
+  "expo": {
+    "name": "restaurant",
+    "description": "An empty new project",
+    "slug": "my-new-temp",
+    "privacy": "public",
+    "sdkVersion": "23.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./src/Images/logo-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.pietechsolution.restaurant"
+    },
+    "android": {
+      "package": "com.pietechsolution.restaurant"
+    }
+  },
+  "name": "mynewtemp",
+  "displayName": "restaurant"
+}
