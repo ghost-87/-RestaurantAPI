@@ -22,7 +22,7 @@
     "native-base": "^2.3.3",
     "oauth-1.0a": "^2.2.3",
     "react": "^16.0.0",
-    "react-native": "^0.54.0",
+    "react-native": "^0.70.6",
     "react-native-auto-scroll": "0.0.1",
     "react-native-datepicker": "1.6.0",
     "react-native-easy-grid": "0.1.15",
